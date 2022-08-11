@@ -1,13 +1,12 @@
 ### Hi there  :fire:
 <br>
 <br>
-<div align="center">
+<div align="center" ><br>
   <a href="https://github.com/williamfilvoch">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamfilvoch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfilvoch&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamfilvoch&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfilvoch&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<br>
+<br>align="center"
 <br>
 <br>
 <br>
@@ -22,6 +21,7 @@
   <img align="center" alt="will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="will-node-js" height="30" width="40" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
 </div>
 <br>
 <br>
