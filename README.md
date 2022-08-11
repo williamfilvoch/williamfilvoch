@@ -1,20 +1,11 @@
-<br>
-<br>
+
 <br>
 <h1> Hi,  I'm William Filvoch a frontEnd developer! </h1>
 <br>
-<h3> My main focus is being a fullStack developer, making applications that impact the life of thousands of users.</h3>
-<br>
 <br>
 
-<h2>Skills:</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
 
+<h2>About me:</h2>
 <p>
   🌍 I'm based in Rio Grande do Sul, Brazil.
 <br>
@@ -23,9 +14,23 @@
   🚀 I'm currently working on freelancer.
  </p>
 <br>
+
+
+<h3> My main focus is being a fullStack developer, making applications that impact the life of thousands of users.</h3>
 <br>
 <br>
 <br>
+<h2>Skills:</h2>
+<div style="display: inline_block"><br>
+  <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+<br>
+<br>
+<br>
+
 
 
 <div align="center">
@@ -62,6 +67,6 @@
    
 <div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/williamfilvoch/williamfilvoch/blob/output/github-contribution-grid-snake.svg)
   
 </div>
