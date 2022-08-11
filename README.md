@@ -1,6 +1,6 @@
 
 <br>
-<h1> Hi,  I'm William Filvoch a frontEnd developer! </h1>
+<h1>:zap: Hi,  I'm William Filvoch a frontEnd developer! </h1>
 <br>
 <br>
 
