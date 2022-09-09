@@ -3,7 +3,6 @@
 <h1>:zap: Hi,  I'm William Filvoch a frontEnd developer! </h1>
 <br>
 <br>
-
 <h2>About me:</h2>
 <p>
   🌍 I'm based in Rio Grande do Sul, Brazil.
@@ -13,15 +12,10 @@
   🚀 I'm currently working on freelancer.
  </p>
 <br>
-
-
 <h3> My main focus is being a fullStack developer, making applications that impact the life of thousands of users.</h3>
 <br>
 <br>
 <br>
-
-
-
 <h2>You can contact me at Socials:</h2>
 <br>
   <div>
@@ -31,9 +25,6 @@
   </div>
 <br>
 <br>
-<br>
-<br>
-
 <h2>Skills:</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,22 +33,12 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-
-
-
 <div align="center">
   <a href="https://github.com/williamfilvoch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfilvoch&langs_count=7&theme=midnight-purple"/>
 </div>
 <br>
 <br>
-<br>
-<br> 
-<br>
-<br>
-  
   
 <div align="center">
   <a href="https://github.com/williamfilvoch">
@@ -65,8 +46,6 @@
 </div> 
 <br>
 <br>
-<br>
-
    
 <div>
   
