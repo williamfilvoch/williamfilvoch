@@ -4,7 +4,6 @@
 <br>
 <br>
 
-
 <h2>About me:</h2>
 <p>
   🌍 I'm based in Rio Grande do Sul, Brazil.
